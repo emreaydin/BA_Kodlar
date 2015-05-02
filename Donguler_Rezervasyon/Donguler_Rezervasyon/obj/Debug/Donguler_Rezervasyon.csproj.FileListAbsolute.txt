@@ -1,0 +1,8 @@
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_Rezervasyon\Donguler_Rezervasyon\bin\Debug\Donguler_Rezervasyon.exe.config
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_Rezervasyon\Donguler_Rezervasyon\bin\Debug\Donguler_Rezervasyon.exe
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_Rezervasyon\Donguler_Rezervasyon\bin\Debug\Donguler_Rezervasyon.pdb
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_Rezervasyon\Donguler_Rezervasyon\obj\Debug\Donguler_Rezervasyon.Form1.resources
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_Rezervasyon\Donguler_Rezervasyon\obj\Debug\Donguler_Rezervasyon.Properties.Resources.resources
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_Rezervasyon\Donguler_Rezervasyon\obj\Debug\Donguler_Rezervasyon.csproj.GenerateResource.Cache
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_Rezervasyon\Donguler_Rezervasyon\obj\Debug\Donguler_Rezervasyon.exe
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_Rezervasyon\Donguler_Rezervasyon\obj\Debug\Donguler_Rezervasyon.pdb

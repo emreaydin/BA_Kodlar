@@ -1,0 +1,9 @@
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_BiletRezervasyon\Donguler_BiletRezervasyon\bin\Debug\Donguler_BiletRezervasyon.exe.config
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_BiletRezervasyon\Donguler_BiletRezervasyon\obj\Debug\Donguler_BiletRezervasyon.csprojResolveAssemblyReference.cache
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_BiletRezervasyon\Donguler_BiletRezervasyon\obj\Debug\Donguler_BiletRezervasyon.Form1.resources
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_BiletRezervasyon\Donguler_BiletRezervasyon\obj\Debug\Donguler_BiletRezervasyon.Properties.Resources.resources
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_BiletRezervasyon\Donguler_BiletRezervasyon\obj\Debug\Donguler_BiletRezervasyon.csproj.GenerateResource.Cache
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_BiletRezervasyon\Donguler_BiletRezervasyon\bin\Debug\Donguler_BiletRezervasyon.exe
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_BiletRezervasyon\Donguler_BiletRezervasyon\bin\Debug\Donguler_BiletRezervasyon.pdb
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_BiletRezervasyon\Donguler_BiletRezervasyon\obj\Debug\Donguler_BiletRezervasyon.exe
+c:\users\emre.aydin\documents\visual studio 2013\Projects\Donguler_BiletRezervasyon\Donguler_BiletRezervasyon\obj\Debug\Donguler_BiletRezervasyon.pdb
